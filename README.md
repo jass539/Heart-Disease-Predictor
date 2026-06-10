@@ -1,4 +1,4 @@
-Heart Disease Predictor  jff
+Heart Disease Predictor  
 
 Overview
 
